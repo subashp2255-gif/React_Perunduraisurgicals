@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://subashp2255-gif.github.io/React_perunduraisurgicals",
+  "homepage": "https://subashp2255-gif.github.io/React_Perunduraisurgicals",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
